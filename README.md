@@ -53,7 +53,7 @@ The code in this repository is based on the following paper:
 > **Automated Nanotoxicity Data Extraction and Prediction of Nanotoxicity**  
 > **Authors:** Eunyong Ha, Seung Min Ha, Zayakhuu Gerelkhuu, Hyun-Yi Kim, Tae Hyun Yoon  
 > For detailed information, please refer to the attached PDF.  
-> :contentReference[oaicite:0]{index=0}
+> 
 > Extracted data sets are available on : http://portal.s2nano.org/
 
 
