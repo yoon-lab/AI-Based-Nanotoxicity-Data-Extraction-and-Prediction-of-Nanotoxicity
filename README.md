@@ -18,15 +18,11 @@ With the increasing use of nanomaterials, efficient nanotoxicity assessment has 
 
 This repository contains a total of 5 Jupyter Notebook (.ipynb) files, each tailored for a specific LLM:
 
-- **gpt-3.5.ipynb**  
-  Implements the complete workflow using the GPT-3.5 model.
-- **gpt4_turbo.ipynb**  
-  Implements the complete workflow using the GPT-4 Turbo model.
 - **gpt-4o.ipynb**  
   Implements the complete workflow using the GPT-4o model.
 - **claude_3.5_sonnet.ipynb**  
   Implements the complete workflow using the Claude 3.5 Sonnet model.
-- **gemini_v2.ipynb**  
+- **gemini.ipynb**  
   Implements the complete workflow using the Gemini_v2 model.
 
 Notebook covers the following steps:
