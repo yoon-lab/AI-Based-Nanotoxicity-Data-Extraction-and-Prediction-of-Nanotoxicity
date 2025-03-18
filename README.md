@@ -41,11 +41,10 @@ Notebook covers the following steps:
    - Install Python 3.7 or higher.  
    - Install the required packages (e.g., run `pip install -r requirements.txt`).
    
-2. **Running the Notebooks**  
-   - Open the desired Notebook file in Jupyter Notebook or Jupyter Lab and execute the cells sequentially.
-
-3. **Reviewing the Results**  
-   - Each Notebook provides visualizations and log outputs to review the results from data extraction, preprocessing, and model development.
+2. **Running the Notebooks**
+   - Open the desired Notebook file in Jupyter Notebook or Jupyter Lab
+   - Fill out the zotero api and llm api key
+   - Execute the cells sequentially.
 
 ## Reference Paper
 
@@ -55,10 +54,8 @@ The code in this repository is based on the following paper:
 > **Authors:** Eunyong Ha, Seung Min Ha, Zayakhuu Gerelkhuu, Hyun-Yi Kim, Tae Hyun Yoon  
 > For detailed information, please refer to the attached PDF.  
 > :contentReference[oaicite:0]{index=0}
+> Extracted data sets are available on : http://portal.s2nano.org/
 
-## Contributing
-
-If you would like to contribute to this project, please feel free to open an issue or submit a pull request (PR) with your suggestions. Contributions in the form of code modifications, bug fixes, and feature enhancements are all welcome.
 
 ## License
 
