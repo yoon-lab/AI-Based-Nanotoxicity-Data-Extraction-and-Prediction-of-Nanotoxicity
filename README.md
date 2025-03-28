@@ -29,16 +29,15 @@ Notebook covers the following steps:
 1. **Data Preparation:** Load relevant research papers and datasets.
 2. **Automated Data Extraction:** Use LLMs for text embedding and extraction of nanotoxicity data.
 3. **Prompt Engineering:** Design detailed prompts for structured data output.
-4. **Data Preprocessing:** Address missing values, handle class imbalances, and perform necessary data cleaning.
 
 ## How to Run
 
 1. **Environment Setup**  
    - Install Python 3.7 or higher.  
-   - Install the required packages (e.g., run `pip install -r requirements.txt`).
    
 2. **Running the Notebooks**
    - Open the desired Notebook file in Jupyter Notebook or Jupyter Lab
+   - prepare zotero library with pdf
    - Fill out the zotero api and llm api key
    - Execute the cells sequentially.
 
@@ -52,11 +51,3 @@ The code in this repository is based on the following paper:
 > 
 > Extracted data sets are available on : http://portal.s2nano.org/
 
-
-## License
-
-This project is distributed under the [LICENSE NAME] (e.g., MIT License). For more details, please refer to the [LICENSE file](./LICENSE).
-
-## Contact
-
-For any questions or suggestions, please contact:  
